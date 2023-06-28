@@ -12,5 +12,4 @@ This project is a responsive design, it contains a lot of different sections wit
     3. JavaScript
 
 ## Live Demo
-
-https://github.com/AhmedElhamady/HTML-CSS-Project3.git
+https://ahmedelhamady.github.io/HTML-CSS-Project3/
